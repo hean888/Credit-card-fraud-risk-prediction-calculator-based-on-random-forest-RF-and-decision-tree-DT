@@ -1,0 +1,10 @@
+name: credit_card_fraud_prediction_calculator
+title:
+username: hean7982
+account: hean7982
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13679701
+bundleId: 9620444
+url: https://hean7982.shinyapps.io/credit_card_fraud_prediction_calculator/
+version: 1
