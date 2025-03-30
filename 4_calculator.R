@@ -113,9 +113,9 @@ server <- function(input, output) {
 
 install.packages('rsconnect')
 
-rsconnect::setAccountInfo(name='hean7982',
-                          token='1291D015A781C6E45B9CFD434504350C',
-                          secret='a826P5cNA/z/sV1KgW8ZEJwncL1k49B1cxgneFms')
+rsconnect::setAccountInfo(name='',
+                          token='',
+                          secret='')
 library(rsconnect)
 
 getwd()
