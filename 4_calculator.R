@@ -119,6 +119,6 @@ rsconnect::setAccountInfo(name='',
 library(rsconnect)
 
 getwd()
-rsconnect::deployApp('C:/Users/25360/Desktop/Credit_card_fraud_prediction_calculator/shinyapp')
+rsconnect::deployApp('/Credit_card_fraud_prediction_calculator/shinyapp')
 
 
